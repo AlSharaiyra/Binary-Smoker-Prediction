@@ -1,0 +1,17 @@
+139 < height < 186
+40 <= weight <= 112
+58 < waist < 113
+eyesight < 2.1
+87 < systolic < 162
+52 < relaxation < 103
+65 < blood sugar < 165
+114 < chol < 280
+23 < tri < 403
+26 < HDL < 106
+38 < LDL < 190
+9 < hemo < 19
+ur_pr <= 3.1
+0.48 < serum < 1.5
+AST < 68
+ALT < 118
+GTP < 190
